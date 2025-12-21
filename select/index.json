@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "妄想税 / Reol(れをる)+nqrse Cover",
+  "base_artist": "Reol",
+  "createdAt": "2025-12-21T19:10:01.659173Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "DECO*27 feat. Miku Hatsune",
+      "has_synced": false,
+      "path": "select/01_妄想税_DECO_27_feat._Miku_Hatsune.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/02_妄想税_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/03_妄想税_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "deco27",
+      "has_synced": true,
+      "path": "select/04_妄想税_deco27.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/05_妄想税_DECO_27_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/06_妄想税_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "DECO*27, Hatsune Miku",
+      "has_synced": true,
+      "path": "select/07_妄想税_DECO_27,_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "+α／あるふぁきゅん。",
+      "has_synced": true,
+      "path": "select/08_妄想税_+α_あるふぁきゅん。.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "松下",
+      "has_synced": true,
+      "path": "select/09_妄想税_松下.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/10_妄想税_DECO_27_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/11_妄想税_VA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "妄想税",
+      "artist": "+α",
+      "has_synced": true,
+      "path": "select/12_妄想税_+α.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "妄想税 feat. Hatsune Miku",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/13_妄想税_feat._Hatsune_Miku_DECO_27.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "妄想税",
+      "artist": "れをる",
+      "has_synced": false,
+      "path": "select/pl_01_妄想税_れをる.txt"
+    }
+  ]
+}
